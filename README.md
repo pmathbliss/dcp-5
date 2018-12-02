@@ -15,10 +15,11 @@ def cons(a, b):
 Implement car and cdr.
 
 ## php
-
+php ./php/run.php
 ## go
 
 ## js
+node  ./js/run.js
 
 ## python
 
